@@ -17,10 +17,6 @@ public class Main {
 	//	System.out.println("Teraz podaj liczbê do wymno¿enia poprzedniej");
 //		double y = sc.nextDouble();
 		
-		
-//		double g =x*y;
-//		System.out.println(g);
-		
 		List<String> listaWynikow = Arrays.asList("kamieñ - 1", "papier - 2", "no¿yce - 3");
 			
 		String[] wynik = {"wygrana", "remis","przegrana"};
