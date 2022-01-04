@@ -12,7 +12,6 @@ public class Main {
 		//System.out.println("Podaj liczbê: ");
 	//	int x=sc.nextInt();
 		
-	//	System.out.println("Twoja liczba to: " +x);
 		
 	//	Thread.sleep(1000);
 	//	System.out.println("Teraz podaj liczbê do wymno¿enia poprzedniej");
