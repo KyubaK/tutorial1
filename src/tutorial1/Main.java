@@ -23,15 +23,6 @@ public class Main {
 //		System.out.println(g);
 		
 		List<String> listaWynikow = Arrays.asList("kamieñ - 1", "papier - 2", "no¿yce - 3");
-
-	
-		
-//		if(g>10) {
-//			System.out.println("Kupa bardzo œmierdzi");
-//		}
-		
-//		else;
-//			System.out.println("Kupa nie œmierdzi bo g<10");
 			
 		String[] wynik = {"wygrana", "remis","przegrana"};
 		
