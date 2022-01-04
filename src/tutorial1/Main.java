@@ -37,7 +37,7 @@ public class Main {
 			System.out.println("Wybra³eœ kamieñ");
 		}	 
 		else if(liczba == 2) {
-			System.out.println("Wybra³eœ papier");
+			System.out.println("Wybra³eœ papier idioto");
 		}
 		else {
 			System.out.println("Wybra³eœ no¿yce");
