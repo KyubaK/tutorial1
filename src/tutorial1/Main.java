@@ -12,7 +12,6 @@ public class Main {
 		//System.out.println("Podaj liczbê: ");
 	//	int x=sc.nextInt();
 		
-	//	System.out.println("Twoja liczba to: " +x);
 		
 	//	Thread.sleep(1000);
 	//	System.out.println("Teraz podaj liczbê do wymno¿enia poprzedniej");
@@ -32,12 +31,13 @@ public class Main {
 		int liczba = Integer.parseInt(wpisz);
 
 		if (liczba > 3){
-			System.out.println("Podana wartoœæ jest spoza zakresu 1-3");
+			System.out.println("Podana wartoœæ idioto jest spoza zakresu 1-3");
 		}
 		else if(liczba == 1){
 			System.out.println("Wybra³eœ kamieñ");
 		}	 
 		else if(liczba == 2) {
+
 			System.out.println("Wybra³eœ papier durniu");
 		}
 		else {
