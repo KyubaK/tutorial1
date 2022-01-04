@@ -37,10 +37,11 @@ public class Main {
 			System.out.println("Wybra³eœ kamieñ");
 		}	 
 		else if(liczba == 2) {
-			System.out.println("Wybra³eœ papier idioto");
+
+			System.out.println("Wybra³eœ papier durniu");
 		}
 		else {
-			System.out.println("Wybra³eœ no¿yce");
+			System.out.println("Wybra³eœ no¿yce hehehe");
 		}
 
 		
